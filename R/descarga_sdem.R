@@ -1,3 +1,7 @@
+#' Esta es la documentación de la función descarga_sdem
+#' @export
+#' 
+
 descarga_sdem <- function(anio_inicio = 2020, anio_fin = 2020) {
 
   # Directorio en donde va a guardar los archivos descargados
